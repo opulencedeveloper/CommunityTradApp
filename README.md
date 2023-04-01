@@ -1,1 +1,1 @@
-Mobile App. Created with Flutter
+Mobile App. Developed with Flutter
